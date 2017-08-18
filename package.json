@@ -1,0 +1,19 @@
+{
+    "name": "fs-extra-exports",
+    "version": "1.0.2",
+    "description": "Add exports for fs-extra for better use.",
+    "main": "index.js",
+    "keywords": [
+        "fs",
+        "fs-extra"
+    ],
+    "author": "Spikef",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Spikef/fs-extra-exports"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "fs-extra": "^4.0.1"
+    }
+}
