@@ -1,6 +1,6 @@
 {
     "name": "fs-extra-exports",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Add exports for fs-extra for better use.",
     "main": "index.js",
     "keywords": [
